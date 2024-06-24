@@ -1,4 +1,4 @@
-# Object_Detection
+# Object_Detection using YOLO v5!
 In this article, we present the object detection application of YOLOv5, including the detection of people, vehicles, and animals in various environments. Test the performance of the method on the COCO dataset and make it clearer and faster compared to YOLO's previous model. 
 Our outcome shows that YOLOv5 achieves good modern performance for a variety of sensing applications, including surveillance, robotics, and autonomous driving. Additionally, we provide a comprehensive review of the algorithm's strengths and weaknesses and discuss future directions for improving its performance. Overall, this article demonstrates the potential of YOLOv5 to be a powerful tool for object detection in real-world applications.
 Object recognition and detection has been an important problem for a long time for many different industries, including the medical field, the security industry, and the transportation sector. This issue, however, takes on a greater level of significance for people who are blind or have some other form of visual impairment.
